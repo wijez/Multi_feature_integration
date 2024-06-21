@@ -19,6 +19,12 @@ pandas = "^2.2.2"
 pypdf2 = "^3.0.1"
 python-pptx = "^0.6.23"
 openpyxl = "^3.1.4"
+matplotlib = "^3.9.0"
+prettytable = "^3.10.0"
+fastapi = "^0.111.0"
+speechrecognition = "^3.10.4"
+pyaudio = "^0.2.14"
+setuptools = "^70.1.0"
 
 
 [build-system]
